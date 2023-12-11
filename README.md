@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Juan Dela Cruz
+# Hi there! Reynaldo Ciriaco Jr. 👋
 
 ## About Me
 
