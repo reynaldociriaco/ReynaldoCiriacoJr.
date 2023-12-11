@@ -1,14 +1,14 @@
-# Hi there!  I'm Reynaldo E. Ciriaco 👋
+# Hi there! 👋 I'm Juan Dela Cruz
 
 ## About Me
 
-Hi, I'm Reynaldo E. Ciriaco, a BSIT student at New Era University. While I have a foundational understanding of coding, my main focus and expertise lie in web design, databases, and networking. I enjoy tackling tricky problems and crafting elegant solutions. Enrolling in the BS in Information Technology program marked the beginning of my tech career.
+Hi, I'm Reynaldo E. Ciriaco, a BSIT student at New Era University. I know basic coding, but not that well because I'm more focused and I know more about web design, databases, and networking. I enjoy taking on tricky problems and coming up with elegant solutions. I enrolled in the BS in Information Technology program, which marked the beginning of my tech career.
 
 ## Education
 
 - **BS Information Technology**
 - New Era University
-- 2019-Present
+- 2021-Present
 
 ## Certification
 
@@ -20,12 +20,12 @@ Hi, I'm Reynaldo E. Ciriaco, a BSIT student at New Era University. While I have 
 ## Skill Sets
 
 - **Programming:** Java, JavaScript
-- **Databases:** IBM DB2 Cloud, SQL, Oracle
-- **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML, CSS
+- **Databases:** IBM DB2 Cloud
+- **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML
 
 ## Connect with Me
 
-- **LinkedIn:** [LinkedIn Profile](LinkedIn_Profile_Link)
+- **LinkedIn:** [LinkedIn Profile]([LinkedIn_Profile_Link](https://www.linkedin.com/in/reynaldo-ciriaco-jr-b859a128a/)
 - **Email:** reynaldociriaco0@gmail.com
 
 Feel free to reach out, and let's connect! 😊
